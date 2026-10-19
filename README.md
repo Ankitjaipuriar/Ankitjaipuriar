@@ -1,6 +1,6 @@
 <!--
   GitHub profile README for Ankit Kumar Jaipuriar.
-  IMPORTANT: Replace Ankit-Jaipuriar below if your actual GitHub username differs.
+  IMPORTANT: Replace Ankitjaipuriar below if your actual GitHub username differs.
 -->
 
 <div align="center">
@@ -53,7 +53,7 @@ Mindset     Learn the fundamentals, simplify the complex, and build with intent
 A visual, plain-English technical dictionary for backend engineering concepts. It is designed to make topics such as APIs, Kafka, databases, concurrency, Spring Boot, and system design easier to explore and remember.
 
 <p>
-  <a href="https://github.com/Ankit-Jaipuriar/BED-The-Backend-Engineering-Dictionary">
+  <a href="https://github.com/Ankitjaipuriar/BED-The-Backend-Engineering-Dictionary">
     <img src="https://img.shields.io/badge/Explore%20the%20project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Explore Backend Engineering Dictionary" />
   </a>
 </p>
@@ -61,12 +61,12 @@ A visual, plain-English technical dictionary for backend engineering concepts. I
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Jaipuriar&show_icons=true&hide_border=true&bg_color=00000000&title_color=203A43&icon_color=2C5364&text_color=44515A&rank_icon=github" alt="GitHub statistics" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ankit-Jaipuriar&hide_border=true&background=FFFFFF00&ring=2C5364&fire=E67E22&currStreakLabel=203A43&sideLabels=203A43&dates=6B7280" alt="GitHub contribution streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankitjaipuriar&show_icons=true&hide_border=true&bg_color=00000000&title_color=203A43&icon_color=2C5364&text_color=44515A&rank_icon=github" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ankitjaipuriar&hide_border=true&background=FFFFFF00&ring=2C5364&fire=E67E22&currStreakLabel=203A43&sideLabels=203A43&dates=6B7280" alt="GitHub contribution streak" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ankit-Jaipuriar/Ankit-Jaipuriar/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ankitjaipuriar/Ankitjaipuriar/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" width="100%" />
 </div>
 
 <div align="center">
