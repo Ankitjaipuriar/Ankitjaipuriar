@@ -53,7 +53,7 @@ Mindset     Learn the fundamentals, simplify the complex, and build with intent
 A visual, plain-English technical dictionary for backend engineering concepts. It is designed to make topics such as APIs, Kafka, databases, concurrency, Spring Boot, and system design easier to explore and remember.
 
 <p>
-  <a href="[https://github.com/Ankitjaipuriar/BED-The-Backend-Engineering-Dictionary](https://ankit-jaipuriar.github.io/BED-The-Backend-Engineering-Dictionary/)">
+  <a href="https://ankit-jaipuriar.github.io/BED-The-Backend-Engineering-Dictionary/">
     <img src="https://img.shields.io/badge/Explore%20the%20project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Explore Backend Engineering Dictionary" />
   </a>
 </p>
